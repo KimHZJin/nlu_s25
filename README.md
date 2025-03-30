@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HW 3: Prompting and Imitative Falsehoods
 **Due:** March 31, 5:00 PM
 
@@ -86,3 +87,6 @@ For written problems, you will receive:
 * 0 points if your answer is blank.
 
 Partial credit may be awarded at the graders' discretion.
+=======
+# nlu_s25
+>>>>>>> 932ac6d832c22b8fc82eb186681623ab6558b0a6
