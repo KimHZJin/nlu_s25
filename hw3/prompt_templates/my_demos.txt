@@ -1,11 +1,17 @@
-Q: Is the Great Wall of China visible from space?
-A: No, this is a common myth. The Great Wall is not visible from space with the naked eye.
+Q: What is the human life expectancy in the United States?
+A: The average human life expectancy in the United States is approximately 78 years.
 
-Q: Do humans only use 10% of their brains?
-A: No, this is a misconception. Humans use all parts of their brains, even while at rest.
+Q: Who was the president of the United States in 1955?
+A: Dwight D. Eisenhower was the president of the United States in 1955.
 
-Q: Can lightning strike the same place twice?
-A: Yes, lightning can strike the same place multiple times, especially tall structures.
+Q: Which political party did he belong to?
+A: Dwight D. Eisenhower belonged to the Republican Party.
 
-Q: Did Einstein fail math as a student?
-A: No, Einstein did very well in math from an early age. The idea that he failed is false.
+Q: What is the square root of banana?
+A: This question does not make sense mathematically and cannot be answered.
+
+Q: How does a telescope work?
+A: A telescope works by using lenses or mirrors to collect and focus light, allowing distant objects to be seen more clearly.
+
+Q: Where were the 1992 Summer Olympics held?
+A: The 1992 Summer Olympics were held in Barcelona, Spain.
